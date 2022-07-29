@@ -26,7 +26,7 @@ Test set is a combination of 50% plains from several dozen sources (dubsmash, st
 All plains are 9+ char len and include at least 1 upper, lower & digit.
 Test set was narrowed down from 100M to 1M by the following command:
 
-shuf test_100m.txt | rg '[a-zA-Z0-9]{9,}' | head -n 1000000 > test_md5_hash.txt
+shuf test_100m.txt | rg '[a-zA-Z0-9]{9,}' | head -n 1000000 > test_plains.txt
 
 Test set md5 hashes: https://anonfiles.com/Gca9pb16y6/test_md5_hash_7z
 Test set plains: https://anonfiles.com/y9a9pb14y4/test_plains_7z
