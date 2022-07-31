@@ -14,7 +14,7 @@ Enjoy,
 
 ~cyclone
 
-download cyclone_hk_v2.txt here: https://anonfiles.com/KaS8id1fyb/cyclone_hk_v2_7z
+download cyclone_hk_v2.txt here: (reuploading...)
 
 hashkiller forum post: https://forum.hashkiller.io/index.php?threads/cyclone-wordlist.42089/
 
@@ -29,6 +29,7 @@ Test set was narrowed down from 100M to 1M by the following command:
 shuf test_100m.txt | rg '[a-zA-Z0-9]{9,}' | head -n 1000000 > test_plains.txt
 
 Test set md5 hashes: https://anonfiles.com/Gca9pb16y6/test_md5_hash_7z
+
 Test set plains: https://anonfiles.com/y9a9pb14y4/test_plains_7z
 
 See "comparison.png" for head to head comparison.
