@@ -14,7 +14,7 @@ Enjoy,
 
 ~cyclone
 
-download cyclone_hk_v2.txt here: https://anonfiles.com/83mdBf1cy0/cyclone_hk_v2_7z
+download cyclone_hk_v2.txt here: (reuploading wordlist which has been sorted with better efficiency)
 
 hashkiller forum post: https://forum.hashkiller.io/index.php?threads/cyclone-wordlist.42089/
 
