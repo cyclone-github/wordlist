@@ -14,7 +14,11 @@ Enjoy,
 
 ~cyclone
 
-download cyclone_hk_v2.txt here: https://anonfiles.com/pcfaI613yf/cyclone_hk_v2_7z
+download cyclone_hk_v2.txt here: 
+
+https://hashmob.net/api/v2/downloads/research/wordlists/cyclone_hk_v2.txt
+
+https://anonfiles.com/pcfaI613yf/cyclone_hk_v2_7z
 
 cyclone_hk_v2.txt sha1 57a2268fa6904f2b2aa743316f1b71aba900ec03  
 
