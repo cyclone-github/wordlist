@@ -14,7 +14,9 @@ Enjoy,
 
 ~cyclone
 
-download cyclone_hk_v2.txt here: (reuploading wordlist which has been sorted with better efficiency)
+download cyclone_hk_v2.txt here: https://anonfiles.com/pcfaI613yf/cyclone_hk_v2_7z
+cyclone_hk_v2.txt sha1 57a2268fa6904f2b2aa743316f1b71aba900ec03  
+note new download link. V2 was resorted & uploaded due to bug that was causing incorrect sorting and resulted in less efficiency
 
 hashkiller forum post: https://forum.hashkiller.io/index.php?threads/cyclone-wordlist.42089/
 
