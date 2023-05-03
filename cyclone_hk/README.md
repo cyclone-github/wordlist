@@ -1,3 +1,6 @@
+### Please use cyclone_hk_v2 instead as it supersedes cyclone_hk.
+- https://github.com/cyclone-github/wordlist/tree/master/cyclone_hk_v2
+
 I've compiled a wordlist, cyclone_hk.txt, for our hashkiller members.
 
 This wordlist has been compiled from several dozen public wordlists / leaks such as hashkiller (jan 2020), hashes.org, crackstation, weakpass, etc, and does not contain any private wordlists / leaks.
@@ -12,7 +15,7 @@ Enjoy.
 
 ~cyclone
 
-download cyclone_hk.txt here: https://anonfiles.com/F4Ie94R3oc/cyclone_hk_7z http://www.mediafire.com/file/j3ofd9enlas5ba2/cyclone_hk.7z/file
+download cyclone_hk.txt here: http://www.mediafire.com/file/j3ofd9enlas5ba2/cyclone_hk.7z/file
 
 hashkiller forum post: https://forum.hashkiller.io/index.php?threads/cyclone-wordlist.42089/
 
