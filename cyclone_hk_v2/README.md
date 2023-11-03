@@ -22,12 +22,12 @@ Download:
 Mirrors:
 - https://hashkiller.io/downloads/cyclone_hk_v2.txt.7z
 - https://hashmob.net/api/v2/downloads/research/wordlists/cyclone_hk_v2.txt
-- https://anonfiles.com/pcfaI613yf/cyclone_hk_v2_7z
 
 Checksum:
 - cyclone_hk_v2.txt sha1 57a2268fa6904f2b2aa743316f1b71aba900ec03  
 
-hashkiller forum post: https://forum.hashkiller.io/index.php?threads/cyclone-wordlist.42089/
+hashkiller forum post:
+- https://forum.hashkiller.io/index.php?threads/cyclone-wordlist.42089/
 
 ###############################################################
 
@@ -35,7 +35,5 @@ Testing:
 - Test set is a combination of 50% plains from several dozen sources (dubsmash, stockx, poshmark, etc) + 50% mangled plains using various cyclone.rules.
 - All plains are 9+ char len and include at least 1x upper, lower and/or digit.
 - Test set was narrowed down from 100M to 1M by the following command:
-- - shuf test_100m.txt | rg '[a-zA-Z0-9]{9,}' | head -n 1000000 > test_plains.txt
-- Test set md5 hashes: ~https://anonfiles.com/Gca9pb16y6/test_md5_hash_7z~
-- Test set plains: ~https://anonfiles.com/y9a9pb14y4/test_plains_7z~
+  - shuf test_100m.txt | rg '[a-zA-Z0-9]{9,}' | head -n 1000000 > test_plains.txt
 - See "comparison.png" for head to head comparison.

@@ -1,4 +1,4 @@
-### Please use cyclone_hk_v2 instead as it supersedes cyclone_hk.
+### --> Please use cyclone_hk_v2 instead as it supersedes cyclone_hk <--
 - https://github.com/cyclone-github/wordlist/tree/master/cyclone_hk_v2
 
 ### _Archived:_
@@ -17,9 +17,11 @@ Enjoy.
 
 ~cyclone
 
-download cyclone_hk.txt here: http://www.mediafire.com/file/j3ofd9enlas5ba2/cyclone_hk.7z/file
+download cyclone_hk.txt here:
+- http://www.mediafire.com/file/j3ofd9enlas5ba2/cyclone_hk.7z/file
 
-hashkiller forum post: https://forum.hashkiller.io/index.php?threads/cyclone-wordlist.42089/
+hashkiller forum post:
+- https://forum.hashkiller.io/index.php?threads/cyclone-wordlist.42089/
 
 PS
 
