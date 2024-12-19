@@ -6,10 +6,10 @@ $ wc -l hashkiller-dict.txt
 ```
 
 Download:
-- https://www.mediafire.com/file/l7jaeidkgs7ue0x/hashkiller-dict-2020-01-26.7z/file
+- https://hashkiller.io/downloads/hashkiller-dict-2020-01-26.7z
 
 Mirrors:
-- https://hashkiller.io/downloads/hashkiller-dict-2020-01-26.7z
+- https://www.mediafire.com/file/l7jaeidkgs7ue0x/hashkiller-dict-2020-01-26.7z/file
 - https://hashmob.net/api/v2/downloads/research/wordlists/hashkiller-dict.txt
 
 Checksum:
