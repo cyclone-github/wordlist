@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyclone-github&repo=wordlist&theme=gruvbox)](https://github.com/cyclone-github/wordlist/)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=cyclone-github&repo=wordlist&theme=gruvbox)](https://github.com/cyclone-github/wordlist/)
 
 All cyclone wordlists are frequency sorted by probability.
 
